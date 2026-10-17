@@ -1,0 +1,17 @@
+built 2026-10-17T15:37:02Z
+hgz-pro-1.txt 65903
+hgz-pro-2.txt 68930
+hgz-pro-3.txt 66686
+hgz-pro total 201519
+hgz-tif-mini-1.txt 75622
+hgz-tif-mini-2.txt 77523
+hgz-tif-mini-3.txt 75970
+hgz-tif-mini total 229115
+hgz-entropy-nrd-7d-1.txt 93277
+hgz-entropy-nrd-7d-2.txt 92499
+hgz-entropy-nrd-7d-3.txt 92944
+hgz-entropy-nrd-7d-4.txt 93567
+hgz-entropy-nrd-7d-5.txt 93196
+hgz-entropy-nrd-7d-6.txt 93568
+hgz-entropy-nrd-7d-7.txt 87103
+hgz-entropy-nrd-7d total 646154
